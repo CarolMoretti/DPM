@@ -1,2 +1,2 @@
 # DPM
-Design Project Management Class
+Design Project Management
